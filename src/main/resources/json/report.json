@@ -1,0 +1,1240 @@
+{
+	"status": "Success",
+	"data": [
+		{
+			"name": "Lipid 1996 panel in serum or plasma",
+			"hasParameter": false,
+			"isProfile": true,
+			"labResultId": 1998,
+			"profiles": [
+				{
+					"unit": "mg/dL",
+					"range": "0.0-150.0",
+					"name": "Triglycerides",
+					"hasParameter": false,
+					"isProfile": false,
+					"labServiceMasterId": 29,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [
+						{
+							"unit": "mg/dL",
+							"range": "0.0-150.0",
+							"resultDate": "Dec 21, 2015 11:59:18 AM",
+							"value": "155",
+							"name": "Triglycerides",
+							"outcomeFlag": "H",
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"unit": "mg/dL",
+							"range": "0.0-150.0",
+							"resultDate": "Apr 29, 2015 1:19:29 PM",
+							"value": "120",
+							"name": "Triglycerides",
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"unit": "mg/dL",
+							"range": "0.0-150.0",
+							"resultDate": "Apr 7,2015 5: 48: 48 AM ",
+							"value": "155",
+							"name": "Triglycerides ",
+							"outcomeFlag ": "H ",
+							"hasParameter ": false,
+							"isProfile ": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"unit": "mg/dL",
+							"range": "0.0-195.0",
+							"resultDate": "Mar 19, 2015 2:36:31 AM",
+							"value": "100",
+							"name": "Triglycerides",
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						}
+					],
+					"resultReadStatus": true
+				},
+				{
+					"unit": "mg/dL",
+					"range": "0.0-100.0",
+					"name": "LDL",
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [
+						{
+							"unit": "mg / dL ",
+							"range": "0.0 - 100.0 ",
+							"resultDate": "Dec 21, 2015 11:59:18 AM ",
+							"value": "100 ",
+							"name": "LDL",
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"unit": "mg/dL",
+							"range": "0.0-100.0",
+							"resultDate": "Apr 7, 2015 5:48:48 AM",
+							"value": "80",
+							"name": "LDL",
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						}
+					],
+					"resultReadStatus": true
+				},
+				{
+					"unit": "mg/dL",
+					"range": "0.0-200.0",
+					"name": "Total Cholesterol",
+					"hasParameter": false,
+					"isProfile": false,
+					"labServiceMasterId": 28,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [
+						{
+							"unit": "mg/dL",
+							"range": "0.0-200.0",
+							"resultDate": "Feb 2, 2016 6:58:41 PM",
+							"hasParameter": false,
+							"name": "Total Cholesterol",
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": false
+						},
+						{
+							"unit": "mg/dL",
+							"range": "0.0-200.0",
+							"resultDate": "Dec 21, 2015 11:59:18 AM",
+							"value": "250",
+							"name": "Total Cholesterol",
+							"outcomeFlag ": "H ",
+							"hasParameter ": false,
+							"isProfile ": false,
+							"profiles ": [],
+							"parameters ": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"unit": "mg/dL",
+							"range": "0.0-200.0",
+							"resultDate": "Apr 7,2015 5: 48: 48 AM ",
+							"value": "210",
+							"name": "Total Cholesterol ",
+							"outcomeFlag ": "H ",
+							"hasParameter ": false,
+							"isProfile ": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"unit": "mg/dL",
+							"range": "0.0-200.0",
+							"resultDate": "Mar 19, 2015 2:36:31 AM",
+							"value": "210",
+							"name": "Total Cholesterol",
+							"outcomeFlag": "H",
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						}
+					],
+					"resultReadStatus": true
+				},
+				{
+					"unit": "mg/dL",
+					"range": "0.0-40.0",
+					"name": "HDL",
+					"hasParameter": false,
+					"isProfile": false,
+					"labServiceMasterId": 22,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [
+						{
+							"unit": "mg / dL ",
+							"range": "0.0 - 40.0 ",
+							"resultDate": "Dec 21,2015 11: 59: 18 AM ",
+							"value": "50",
+							"name": "HDL ",
+							"outcomeFlag ": "H",
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"unit": "mg/dL",
+							"range": "0.0-40.0",
+							"resultDate": "Apr 7, 2015 5:48:48 AM",
+							"value": "38",
+							"name": "HDL",
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"unit": "mmol/L",
+							"range": "40.0-60.0",
+							"resultDate": "Mar 19, 2015 2:36:31 AM",
+							"value": "35",
+							"name": "HDL",
+							"outcomeFlag": "L",
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						}
+					],
+					"resultReadStatus": true
+				}
+			],
+			"parameters": [],
+			"datewiseValues": [],
+			"resultReadStatus": true
+		},
+		{
+			"unit": "x1000000umol/l",
+			"range": "1.9-9.0",
+			"name": "CBC",
+			"hasParameter": true,
+			"isProfile": false,
+			"labResultId": 1983,
+			"labServiceMasterId": 104,
+			"profiles": [],
+			"parameters": [
+				{
+					"unit": "g/dL",
+					"range": "14.0-17.5 ",
+					"name": "HGB",
+					"hasParameter ": false,
+					"isProfile ": false,
+					"profiles ": [],
+					"parameters ": [],
+					"datewiseValues": [
+						{
+							"unit": "g/dL",
+							"range": "14.0-17.5",
+							"resultDate": "Dec 21, 2015 12:02:10 PM",
+							"value": "18",
+							"name": "HGB",
+							"outcomeFlag": "H",
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						}
+					],
+					"resultReadStatus": true
+				},
+				{
+					"unit": "%",
+					"range": "41.5-50.4",
+					"name": "HCT",
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [
+						{
+							"unit": "%",
+							"range": "41.5-50.4 ",
+							"resultDate": "Dec 21, 2015 12:02:10 PM ",
+							"value": "50",
+							"name": "HCT ",
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						}
+					],
+					"resultReadStatus": true
+				},
+				{
+					"unit": "fl",
+					"range": "80.0-96.0",
+					"name": "MCV",
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [
+						{
+							"unit": "fl",
+							"range": "80.0-96.0",
+							"resultDate": "Dec 21, 2015 12:02:10 PM",
+							"value": "78",
+							"name": "MCV",
+							"outcomeFlag": "L",
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						}
+					],
+					"resultReadStatus": true
+				},
+				{
+					"unit": "pg",
+					"range": "27.5-33.2",
+					"name": "MCH",
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [
+						{
+							"unit": "pg",
+							"range": "27.5-33.2",
+							"resultDate": "Dec 21, 2015 12:02:10 PM",
+							"value": "25",
+							"name": "MCH",
+							"outcomeFlag": "L",
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						}
+					],
+					"resultReadStatus": true
+				},
+				{
+					"unit": "g/dL",
+					"range": "33.4-35.5",
+					"name": "MCHC",
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [
+						{
+							"unit": "g/dL",
+							"range": "33.4-35.5",
+							"resultDate": "Dec 21, 2015 12:02:10 PM",
+							"value": "35",
+							"name": "MCHC",
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						}
+					],
+					"resultReadStatus": true
+				},
+				{
+					"unit": "%",
+					"range": "11.5-14.5",
+					"name": "RDW",
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [
+						{
+							"unit": "%",
+							"range": "11.5-14.5",
+							"resultDate": "Dec 21,2015 12: 02: 10 PM ",
+							"value": "14 ",
+							"name": "RDW ",
+							"hasParameter ": false,
+							"isProfile ": false,
+							"profiles ": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						}
+					],
+					"resultReadStatus": true
+				},
+				{
+					"unit": "x1000000umol/l",
+					"range": "0.9-5.2",
+					"name": "Lymphocytes",
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [
+						{
+							"unit": "x1000000umol/l",
+							"range": "0.9-5.2",
+							"resultDate": "Dec 21, 2015 12:02:10 PM",
+							"value": "3",
+							"name": "Lymphocytes",
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						}
+					],
+					"resultReadStatus": true
+				},
+				{
+					"unit": "x1000000umol/l",
+					"range": "0.16-1.0",
+					"name": "Monocytes",
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [
+						{
+							"unit": "x1000000umol/l",
+							"range": "0.16-1.0",
+							"resultDate": "Dec 21, 2015 12:02:10 PM",
+							"value": "1",
+							"name": "Monocytes",
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						}
+					],
+					"resultReadStatus": true
+				},
+				{
+					"unit": "x1000000umol/l",
+					"range": "0.0-0.8",
+					"name": "Eosinophils",
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [
+						{
+							"unit": "x1000000umol/l",
+							"range": "0.0-0.8",
+							"resultDate": "Dec 21, 2015 12:02:10 PM",
+							"value": "1",
+							"name": "Eosinophils",
+							"outcomeFlag": "H",
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						}
+					],
+					"resultReadStatus": true
+				},
+				{
+					"unit": "x1000000umol/l",
+					"range": "0.0-0.2",
+					"name": "Basophils",
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [
+						{
+							"unit": "x1000000umol/l",
+							"range": "0.0-0.2",
+							"resultDate": "Dec 21, 2015 12:02:10 PM",
+							"value": "1",
+							"name": "Basophils",
+							"outcomeFlag": "H",
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						}
+					],
+					"resultReadStatus": true
+				},
+				{
+					"unit": "x1000000umol/l",
+					"range": "4.0-11.0",
+					"name": "WBC",
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [
+						{
+							"unit": "x1000000umol/l",
+							"range": "4.0-11.0",
+							"resultDate": "Dec 21, 2015 12:02:10 PM",
+							"value": "6",
+							"name": "WBC",
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						}
+					],
+					"resultReadStatus": true
+				},
+				{
+					"unit": "x1000000umol/l",
+					"range": "4.5-5.9",
+					"name": "RBC",
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [
+						{
+							"unit": "x1000000umol/l",
+							"range": "4.5-5.9",
+							"resultDate": "Dec 21, 2015 12:02:10 PM",
+							"value": "6",
+							"name": "RBC",
+							"outcomeFlag": "H",
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						}
+					],
+					"resultReadStatus": true
+				},
+				{
+					"unit": "x1000000umol/l",
+					"range": "130.0-400.0",
+					"name": "Platelets",
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [
+						{
+							"unit": "x1000000umol/l",
+							"range": "130.0-400.0",
+							"resultDate": "Dec 21, 2015 12:02:10 PM",
+							"value": "300",
+							"name": "Platelets",
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						}
+					],
+					"resultReadStatus": true
+				},
+				{
+					"unit": "x1000000umol/l",
+					"range": "1.9-9.0",
+					"name": "Neutrophils",
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [
+						{
+							"unit": "x1000000umol/l",
+							"range": "1.9-9.0",
+							"resultDate": "Dec 21, 2015 12:02:10 PM",
+							"value": "4",
+							"name": "Neutrophils",
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						},
+						{
+							"hasParameter": false,
+							"isProfile": false,
+							"profiles": [],
+							"parameters": [],
+							"datewiseValues": [],
+							"resultReadStatus": true
+						}
+					],
+					"resultReadStatus": true
+				}
+			],
+			"datewiseValues": [],
+			"resultReadStatus": true
+		},
+		{
+			"unit": "pg/ml",
+			"range": "100.0-300.0",
+			"name": "Brain Natriuretic Peptide",
+			"hasParameter": false,
+			"isProfile": false,
+			"labResultId": 583,
+			"labServiceMasterId": 121,
+			"profiles": [],
+			"parameters": [],
+			"datewiseValues": [
+				{
+					"unit": "pg/ml",
+					"range": "100.0-300.0",
+					"resultDate": "Oct 3, 2015 11:38:25 AM",
+					"value": "200",
+					"name": "Brain Natriuretic Peptide",
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [],
+					"resultReadStatus": true
+				},
+				{
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [],
+					"resultReadStatus": true
+				},
+				{
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [],
+					"resultReadStatus": true
+				},
+				{
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [],
+					"resultReadStatus": true
+				},
+				{
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [],
+					"resultReadStatus": true
+				}
+			],
+			"resultReadStatus": true
+		},
+		{
+			"unit": "mm/hr",
+			"range": "0.0-20.0",
+			"name": "ESR",
+			"hasParameter": false,
+			"isProfile": false,
+			"labResultId": 119,
+			"labServiceMasterId": 21,
+			"profiles": [],
+			"parameters": [],
+			"datewiseValues": [
+				{
+					"unit": "mm/hr",
+					"range": "0.0-20.0",
+					"resultDate": "Apr 7, 2015 5:48:48 AM",
+					"value": "20",
+					"name": "ESR",
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [],
+					"resultReadStatus": true
+				},
+				{
+					"unit": "mm/hr",
+					"range": "0.0-20.0",
+					"resultDate": "Mar 18, 2015 8:36:21 AM",
+					"value": "45",
+					"name": "ESR",
+					"outcomeFlag": "H",
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [],
+					"resultReadStatus": true
+				},
+				{
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [],
+					"resultReadStatus": true
+				},
+				{
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [],
+					"resultReadStatus": true
+				},
+				{
+					"hasParameter": false,
+					"isProfile": false,
+					"profiles": [],
+					"parameters": [],
+					"datewiseValues": [],
+					"resultReadStatus": true
+				}
+			],
+			"resultReadStatus": true
+		}
+	]
+}

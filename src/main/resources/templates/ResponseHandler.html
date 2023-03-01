@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>Response Handler</title>
+</head>
+<body>
+<center>
+    <font size="4" color="blue"><b>Response Page</b></font>
+    <table border="1">
+    <tr th:each="iter:${ResponseTable.entrySet()}">
+        <td th:text="${iter.key}">Key</td>
+        <td th:text="${iter.value}">Value</td>
+    </tr>
+    </table>
+</center>
+</body>
+</html>

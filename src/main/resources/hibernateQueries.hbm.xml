@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+      "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+      "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>   
+      <sql-query name="patient.pharma.lineitems">
+      <return-scalar column="itemCode" type="string" />
+      <return-scalar column="quantity" type="float" />
+      	<![CDATA[ select xob.itemcode as itemCode, xob.loosequantity as quantity from XX_OPMEDICATIONORDER_OUTBOUND xob
+				where xob.storecode = ? and xob.orderno = ?]]>
+      </sql-query>
+      <sql-query name="clinicalDepartmentList.Q">
+      <return-scalar column="departmentId" type="long" />
+      <return-scalar column="departmentCode" type="string" />
+      <return-scalar column="departmentName" type="string" />
+      <return-scalar column="description" type="string" />
+      <return-scalar column="departmentType" type="string" />
+      	<![CDATA[  select sd.id as departmentId,
+				sd.department_code as departmentCode,
+				sd.department_name as departmentName,
+				sd.description as description,
+				le.lookup_value as departmentType
+				from saas_departments sd
+				join fnd_lookup_values le on le.id = sd.department_type
+				where sd.branch_id = ? and le.lookup_value = ?
+				order by sd.department_name  ]]>	
+      </sql-query>
+      <sql-query name="checkEncounterVisitExist.Q">
+      <return-scalar column="ID" type="long" />
+      	<![CDATA[ select evs.id AS ID from ENCOUNTER_VISIT_STATUS evs where evs.encounter_id = ? ]]>
+      </sql-query>
+      <sql-query name="updateEventStatus.Q">
+      	<![CDATA[ update ENCOUNTER_VISIT_STATUS evs set evs.consultation_status = ?, 
+      				evs.updated_by = evs.created_by, evs.updatedat = sysdate
+					where evs.encounter_id = ? ]]>
+      </sql-query>
+      <sql-query name="checkEncounterStatus.Q">
+      <return-scalar column="status" type="string" />
+      	<![CDATA[ select evs.consultation_status as status from ENCOUNTER_VISIT_STATUS evs where evs.encounter_id = ? ]]>
+      </sql-query>
+      <sql-query name="fetchIdFromLookup.Q">
+      <return-scalar column="lookupId" type="long" />
+      	<![CDATA[ select le.id as lookupId from fnd_lookup_values le
+			join fnd_lookup_categories lc on lc.id = le.lookup_categoryid
+			where lower(lc.categoryname) = lower(?) 
+			and lower(le.lookup_value) = lower(?) ]]>
+      </sql-query>
+      <sql-query name="fetchIdFromOrg.Q">
+      <return-scalar column="siteId" type="long" />
+      	<![CDATA[ SELECT FO.ID AS siteId FROM fnd_organizations FO 
+					WHERE LOWER(FO.NAME)  = LOWER(?)]]>
+      </sql-query>
+      <sql-query name="fetchDeptIdFromSite.Q">
+      <return-scalar column="departmentId" type="long" />
+      	<![CDATA[ select sd.id as departmentId from saas_departments sd 
+				join fnd_organizations fo on fo.id = sd.branch_id
+				where fo.id = ? and lower(sd.department_name) = lower(?)]]>
+      </sql-query>
+      <sql-query name="checkExistingVitals.Q">
+      <return-scalar column="id" type="long" />
+      <return-scalar column="paramValue" type="string" />
+		<![CDATA[
+			select tvc.id as id, tvc.value as paramValue from txn_vital_captures tvc where tvc.encounter_id = ?
+		 ]]>      
+      </sql-query>
+
+</hibernate-mapping>
