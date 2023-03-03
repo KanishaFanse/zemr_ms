@@ -8,6 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.portal.ambulance.domain.AmbulanceMaster;
+import com.portal.ambulance.domain.AmbulanceTxn;
 import com.portal.repo.IBaseRepository;
 
 @Service
@@ -27,6 +28,12 @@ public class AmbulanceRequestService implements IAmbulanceRequestService {
 	public AmbulanceMaster saveAmbulanceMaster(AmbulanceMaster master) {
 		repository.save(master);
 		return master;
+	}
+	
+	@Override
+	public AmbulanceTxn saveAmbulanceTransaction(AmbulanceTxn transaction) {
+		repository.save(transaction);
+		return transaction;
 	}
 	
 }

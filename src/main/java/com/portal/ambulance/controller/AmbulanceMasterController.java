@@ -17,6 +17,7 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.portal.BeanUtils;
 import com.portal.ambulance.domain.AmbulanceMaster;
+import com.portal.ambulance.domain.AmbulanceTxn;
 import com.portal.ambulance.service.IAmbulanceRequestService;
 
 @Controller
@@ -43,7 +44,7 @@ public class AmbulanceMasterController {
 		}catch(Exception e) {
 			responseMap.put("status", "failure");
 			responseMap.put("message", e.getMessage());
-			logger.error("ERROR WHILE SAVINF AMBULANCE DETAILS", e);
+			logger.error("ERROR WHILE SAVING AMBULANCE DETAILS", e);
 		}finally {
 			
 		}
@@ -79,4 +80,5 @@ public class AmbulanceMasterController {
 		}
 		return flag;
 	}
+	
 }
